@@ -3,6 +3,8 @@ This is the `MATLAB` code for some basic figure making tutorials I wrote. They a
 
 Download data and put in /data/ folder: https://www.dropbox.com/sh/xtlheuex5rk7whl/AABdveaLOTWPZ2Uxzlm4BBCIa?dl=0
 
+You will need to download [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php) to run some of the tutorials. 
+
 The basic idea is how we take a default figure like this
 
 <p align="center">
